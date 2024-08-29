@@ -1,0 +1,5 @@
+a = float(input("ingrese un numero:"))
+b = float(input("i:ngrese segundo numero:"))
+c = float(input("ingrese un numero:"))
+menor = min(a,b,c)
+print ("el menor de los tres es:", menor)
